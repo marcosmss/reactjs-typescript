@@ -5,7 +5,7 @@ import Grid from "@material-ui/core/Grid";
 import Button from "../../components/Button/index.tsx";
 import If from "../../components/Condition/index.tsx";
 import List from "../../components/List/index.tsx";
-import styles from "./styles";
+import styles from "./styles.ts";
 
 import axios from "axios";
 import { baseURL } from "../../services/api.ts";
